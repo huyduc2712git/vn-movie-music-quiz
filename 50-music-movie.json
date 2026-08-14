@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "title": "Vietnamese Movie Music Quiz",
-  "total_quizzes": 100,
+  "title": "Vietnamese Movie Music 50 Quiz",
+  "total_quizzes": 50,
   "total_audio_sources": 20,
   "audio_note": "YouTube URLs are references for permitted playback/embed. Timestamps are selected as demo playback positions and should be spot-checked before production use.",
   "sets":[
