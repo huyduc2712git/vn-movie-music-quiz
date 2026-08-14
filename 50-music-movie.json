@@ -1,4 +1,10 @@
-[
+{
+  "version": "1.0",
+  "title": "Vietnamese Movie Music Quiz",
+  "total_quizzes": 100,
+  "total_audio_sources": 20,
+  "audio_note": "YouTube URLs are references for permitted playback/embed. Timestamps are selected as demo playback positions and should be spot-checked before production use.",
+  "sets":[
   {
     "id": 1,
     "question": "Ca khúc này có tên là gì?",
@@ -459,3 +465,4 @@
     "correct_answer": "HIEUTHUHAI"
   }
 ]
+}
